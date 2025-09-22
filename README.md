@@ -11,9 +11,9 @@ Este repositorio recopila proyectos realizados en **Jupyter Notebook**, organiza
 ## Objetivo
 Este portfolio muestra mis habilidades en estadística, machine learning y deep learning, con aplicaciones prácticas en análisis de datos.
 
+📩 Si quieres contactarme: [LinkedIn](www.linkedin.com/in/ana-campillo-gonzález-46971325b) | [Email](ana.campillo.gz@gmail.com)
 
 ---
-📩 Si quieres contactarme: [LinkedIn](www.linkedin.com/in/ana-campillo-gonzález-46971325b) | [Email](ana.campillo.gz@gmail.com)
 
 # Data Analysis Portfolio
 
@@ -27,5 +27,5 @@ This repository collects several projects developed in **Jupyter Notebook**, org
 
 ## Objective
 This portfolio is intended to showcase my skills in statistics, machine learning, and deep learning, with practical applications in data analysis.
----
+
 📩 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ana-campillo-gonzález-46971325b) or via [Email](ana.campillo.gz@gmail.com)
