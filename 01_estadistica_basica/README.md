@@ -7,7 +7,6 @@ Cada notebook ilustra un método diferente, con ejemplos claros y aplicaciones e
 - **K-Means Clustering** → Ejemplo de aprendizaje no supervisado para agrupar datos en clústeres.  
 - **Bootstrapping** → Técnica de remuestreo para estimar la variabilidad de estadísticas.  
 - **Simulación Monte Carlo** → Enfoque basado en muestreo aleatorio para aproximar soluciones a problemas complejos.  
-- **Validación Cruzada** → Método para evaluar el rendimiento de modelos y evitar sobreajuste.
 
 ## Objetivo
 El objetivo de esta sección es mostrar mi comprensión de fundamentos estadísticos y técnicas de simulación que son esenciales para el análisis de datos.
