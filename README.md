@@ -4,7 +4,7 @@ Bienvenido/a 👋 Soy Ana, estudiante de análisis de datos con interés en esta
 Este repositorio recopila proyectos realizados en **Jupyter Notebook**, organizados por temática.  
 
 ## Estructura
-- **01_estadistica_basica/** → Simulación y métodos estadísticos (K-Means, Bootstrapping, Monte Carlo, Validación Cruzada).
+- **01_estadistica_basica/** → Simulación y métodos estadísticos (K-Means, Bootstrapping, Monte Carlo).
 - **02_machine_learning/** → Modelos clásicos como Random Forest.
 - **03_deep_learning/** → Modelos avanzados como LSTM para series temporales.
 
