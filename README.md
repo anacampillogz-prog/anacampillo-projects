@@ -25,7 +25,7 @@ Python | R | SPSS | SQL | Jupyter Notebook
 
 Este portfolio muestra proyectos relacionados con análisis estadístico, modelado predictivo e inteligencia artificial aplicada a investigación y análisis de datos.
 
-📩 Si quieres contactarme: [LinkedIn](www.linkedin.com/in/ana-campillo-gonzález-46971325b) | [Email](mailto:ana.campillo.gz@gmail.com)
+📩 Si quieres contactarme: [LinkedIn](https://www.linkedin.com/in/ana-campillo-gonzález-46971325b) | [Email](mailto:ana.campillo.gz@gmail.com)
 
 ---
 
@@ -56,4 +56,5 @@ Python | R | SPSS | SQL | Jupyter Notebook
 
 This portfolio showcases projects related to statistical analysis, predictive modeling and artificial intelligence applied to research and data analysis.
 
-📩 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ana-campillo-gonzález-46971325b) or via [Email](mailto:ana.campillo.gz@gmail.com)
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ana-campillo-gonzález-46971325b) or via [Email](mailto:ana.campillo.gz@gmail.com)
+
