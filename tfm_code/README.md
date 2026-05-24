@@ -32,7 +32,7 @@ El estudio utiliza simulaciones Monte Carlo para comparar métodos clásicos y t
 - Preservación correlacional
 - Análisis estructural mediante UMAP
 
-## Tecnologías
+## Python Libraries
 
 - Python
 - NumPy
@@ -41,10 +41,3 @@ El estudio utiliza simulaciones Monte Carlo para comparar métodos clásicos y t
 - TensorFlow / Keras
 - Matplotlib
 - Seaborn
-
-## Estructura del repositorio
-
-```text
-TFM_missing_data.ipynb
-figures/
-results/
