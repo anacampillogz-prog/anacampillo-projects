@@ -45,6 +45,6 @@ El estudio utiliza simulaciones Monte Carlo para comparar métodos clásicos y t
 ## Estructura del repositorio
 
 ```text
-TFM_missing_data.ipynb    # Simulación, imputación y análisis
-figures/                  # Figuras utilizadas en el TFM
-results/                  # Resultados y tablas
+TFM_missing_data.ipynb
+figures/
+results/
