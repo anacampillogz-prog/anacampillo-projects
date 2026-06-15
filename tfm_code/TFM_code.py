@@ -393,7 +393,7 @@ def run_wilcoxon_tests(df_results):
     comparisons = [
         # (método_A, método_B, mecanismos, missing_pcts, descripción)
         ('mice', 'baseline', ['MCAR', 'MAR'],  [10, 30], 'MICE vs Baseline'),
-        ('mice', 'baseline', ['MNAR'],         [30],     'MICE vs Baseline'),  # caso inverso
+        ('mice', 'baseline', ['MNAR'], [10, 30], 'MICE vs Baseline'),  # caso inverso
         ('mice', 'autoencoder', ['MCAR', 'MAR'], [10, 30], 'MICE vs DAE'),
     ]
 
@@ -498,6 +498,7 @@ def print_wilcoxon_summary(df_w):
         )
 
     print("=" * 70)
+
 
 
 # 5. SIMULACIÓN MONTE CARLO PRINCIPAL
