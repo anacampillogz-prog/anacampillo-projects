@@ -220,7 +220,7 @@ def impute_baseline(data_missing):
     return pd.DataFrame(imputed, columns=data_missing.columns)
 
 
-# --- 3.2 MICE ---
+# --- 3.2 Iterative Imputer ---
 
 def impute_mice(data_missing, seed=None):
     """Imputación múltiple por ecuaciones encadenadas (MICE)."""
